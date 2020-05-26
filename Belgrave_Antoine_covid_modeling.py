@@ -1,11 +1,11 @@
-# Simple COVID-19 Exponential Growth Simulator Template -- Antoine B. -- 5/25/2020 -- 7:48pm -- Version 0.0
+# Simple COVID-19 Exponential Growth Simulator Template -- Antoine B. -- 5/25/2020 -- 8:25pm -- Version 0.1
 
 import time
 
-# Create a variable here that will store the number of infected people, assign it a value of 0.  
-# Create a variable here that will store the current day number, assign it a value of 0. (i.e. the first day is day 0, the second day is day 1, etc.)
-# Create a variable here that will store the total number of days to simluate, assign it a value of 0. (i.e. how many days worth of growth will you simulate?)
-# Create a variable here that will store the number of people that will die from COVID-19, assign it a value of 0.  
+num_infected_ppl = 0
+current_day = 0
+days_sim = 0
+num_ deaths_ppl = 0
 
 # Use a print() statement to explain that the number of infections doubles every six days.
 
